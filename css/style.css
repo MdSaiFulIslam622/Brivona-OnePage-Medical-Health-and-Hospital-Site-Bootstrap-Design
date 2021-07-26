@@ -985,7 +985,7 @@ select:focus {
     font-weight: 400;
     font-family: "Saira", Arial, Helvetica, sans-serif;
     text-transform: capitalize;
-    color: #d5d5d5;
+    color: rgba(255,255,255,.8);
 }
 
 /*=== 13. recent articles css ===*/
