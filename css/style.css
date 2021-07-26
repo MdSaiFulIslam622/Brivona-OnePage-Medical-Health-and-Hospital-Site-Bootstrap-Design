@@ -983,7 +983,7 @@ select:focus {
     font-size: 18px;
     line-height: 25px;
     font-weight: 400;
-    font-family: "Saira", Arial, Helvetica, sans-serif;
+    font-family: "Saira", sans-serif;
     text-transform: capitalize;
     color: rgba(255,255,255,.8);
 }
